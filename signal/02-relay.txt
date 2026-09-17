@@ -1,0 +1,15 @@
+IRINA // SIGNAL 02 // RELAY
+
+SOURCE: -16.6869,-49.2648
+RELAY:  55.7558,37.6173
+TARGET: ?
+
+FORMAT: hexadecimal / ASCII
+PAYLOAD:
+
+4e 45 58 54 3a 20 73 69 67 6e 61 6c 2f 30 33 2d 71 75 65 73 74 69 6f 6e 2e 74 78 74
+
+The coordinates are context.
+The payload is the instruction.
+
+EOF
